@@ -8,5 +8,4 @@
 //    List<Car> getAll();
 //    Car getbyId(int id);
 //    void save(Car car);
-//    void remove(int id);
 //}
