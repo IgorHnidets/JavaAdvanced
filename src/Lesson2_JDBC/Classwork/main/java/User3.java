@@ -5,10 +5,10 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Data
-public class User2 {
+public class User3 {
     private int id;
-    private String firstname;
-    private String lastname;
-    private String email;
-    private String password;
+    private String manufacturer;
+    private String model;
+    private int price;
+    private int model_year;
 }
